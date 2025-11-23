@@ -35,9 +35,6 @@ pip install -r requirements.txt
 To train the model, run the training script.  
 It loads the dataset, preprocesses the images, trains the VGG16-style CNN, and saves the best model checkpoint.
 
-You may also run the prediction script by providing a chest X-ray image and receiving a predicted disease label with probability.
-
-
 ## **Model Details**
 ### Model Architecture
 A VGG16-inspired CNN designed with:
