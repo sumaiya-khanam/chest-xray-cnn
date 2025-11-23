@@ -26,7 +26,7 @@ pip install -r requirements.txt
 - It is obtained from Mendeley Data.
 - The dataset is organized into separate folders for training, validation, and testing.
 - Each folder contains three subfolders — one for each class.
-- Dataset link: *(https://data.mendeley.com/datasets/p5rm59k7ph/1)*
+- Dataset link: *https://data.mendeley.com/datasets/p5rm59k7ph/1*
 
 ## **How to Run the Project**
 To train the model, run the training script.  
