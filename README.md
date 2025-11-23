@@ -13,8 +13,7 @@ This project includes several useful functionalities:
 - Model training with hyperparameter tuning options.
 - Visualization support for accuracy curves, loss curves, and confusion matrices.
 - Model checkpoint saving to preserve the best weights.
-- Support for image preprocessing and real-time prediction.
-- Easily expandable to new disease categories or architectures.
+- Support real-time prediction.
 
 ## **4. Installation Instructions**
 The project requires Python and several deep-learning libraries such as TensorFlow, Keras, NumPy, Pandas, Matplotlib, and scikit-learn.  
@@ -24,13 +23,13 @@ Install dependencies using the command:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## **5. Dataset Details**
 - The dataset contains chest X-ray images from three categories: Normal, Viral Pneumonia, and Lung Opacity.
 - It is obtained from Mendeley Data.
 - The dataset is organized into separate folders for training, validation, and testing.
 - Each folder contains three subfolders — one for each class.
-Dataset link: *(Add link here)*
+Dataset link: *(https://data.mendeley.com/datasets/p5rm59k7ph/1)*
 
 ## **6. How to Run the Project**
 To train the model, run the training script.  
