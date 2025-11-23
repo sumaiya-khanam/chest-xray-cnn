@@ -1,6 +1,6 @@
 # **Multiclass Classification of Chest X-ray Images Using Convolutional Neural Networks**
 
-##**Prerequisites**
+## **Prerequisites**
 - Download the trained model (.h5): *https://drive.google.com/drive/folders/18SzcDfhRzFF6f1753waw-ZcBbwoEFrqq?usp=sharing*
   
 ## **Project Overview**
