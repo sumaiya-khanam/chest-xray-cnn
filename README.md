@@ -1,5 +1,8 @@
 # **Multiclass Classification of Chest X-ray Images Using Convolutional Neural Networks**
 
+##**Prerequisites**
+- Download the trained model (.h5): *https://drive.google.com/drive/folders/18SzcDfhRzFF6f1753waw-ZcBbwoEFrqq?usp=sharing*
+  
 ## **Project Overview**
 This project builds a VGG16-inspired CNN to classify chest X-ray images into Normal Lung, Viral Pneumonia, and Lung Opacity. It aims to assist medical practitioners by providing faster, automated lung disease screening.
 The dataset, collected from Mendeley Data (2025) and Kaggle, contains 3,475 images across the three classes. All images were preprocessed and organized into train, validation, and test sets. The project also includes a systematic hyperparameter comparison to evaluate how different configurations affect model accuracy and stability.
